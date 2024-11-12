@@ -1,3 +1,14 @@
+'''
+Implement Greedy search algorithm for any of the following application:
+● Selection Sort
+● Minimum Spanning Tree
+● Single-Source Shortest Path Problem
+● Job Scheduling Problem
+● Prim&#39;s Minimal Spanning Tree Algorithm
+● Kruskal&#39;s Minimal Spanning Tree Algorithm
+● Dijkstra&#39;s Minimal Spanning Tree Algorithm
+'''
+
 def swap(arr, i, j):
     arr[i], arr[j] = arr[j], arr[i]
 
