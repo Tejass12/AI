@@ -1,3 +1,7 @@
+'''
+Implement Alpha-Beta Tree search for any game search problem.
+'''
+
 MAX, MIN = 1000, -1000
 
 def minimax(depth, nodeIndex, maximizingPlayer, 
