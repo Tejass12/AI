@@ -1,3 +1,7 @@
+'''
+Implement A star (A*) Algorithm for any game search problem.
+'''
+
 import heapq
 
 def heuristic(a, b):
